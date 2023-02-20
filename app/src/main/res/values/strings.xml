@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">ShowSysInfo</string>
+    <string name="app_version">1.0.0</string>
+    <string name="text_model">Model</string>
+    <string name="text_id">ID</string>
+    <string name="text_manufacturer">Manufacturer</string>
+    <string name="text_brand">Brand</string>
+    <string name="text_version">Version</string>
+    <string name="text_type">Type</string>
+    <string name="text_user">User</string>
+    <string name="text_base">Base</string>
+    <string name="text_incremental">Incremental</string>
+    <string name="text_sdk">SDK</string>
+    <string name="text_host">Host</string>
+    <string name="text_fingerprint">Fingerprint</string>
+    <string name="text_language">Language</string>
+    <string name="text_device">Device</string>
+    <string name="text_display">Display</string>
+    <string name="text_product">Product</string>
+    <string name="text_time">Time</string>
+    <string name="text_init">0</string>
 </resources>
