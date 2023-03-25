@@ -1,4 +1,9 @@
-# ShowSystemInfo
+# show-system-info
+<p align="center">
+    <a href="https:/" target="_blank" rel="noopener noreferrer">
+        <img width="80" src="./res/ic_launcher.png" alt="App screenshot">
+    </a>
+</p>
 Android package for viewing system's information.
 
 **Keywords**: Android, APK, System monitor.
@@ -6,10 +11,15 @@ Android package for viewing system's information.
 ---
 This is the screenshot of the app:
 
-![](res/Screenshot%20from%202023-02-20%2023-19-41.png)
+<p align="center">
+    <a href="https:/" target="_blank" rel="noopener noreferrer">
+        <img width="300" src="./res/mi_.jpg" alt="App screenshot">
+    </a>
+</p>
 
 ## Usage
 Build the work with Android Studio and export as APK file, install it on your phone.
+Or you can find the prebuild `.apk` file from [here](./res/app-debug-androidTest.apk)
 
 ### Repo structure
 ```bash
@@ -29,8 +39,9 @@ Build the work with Android Studio and export as APK file, install it on your ph
 └── res
 ```
 ## To do
-- [ ] Add icon for the app.
-- [ ] Add Viewpage support.
-- [ ] Refine layout.
-- [ ] Add more sensor's real-time value.
-- [ ] Add battery, storage, network, bluetooth, etc. information.
+- [x] Add icon for the app.
+- [x] Refine layout.
+- [x] Add more sensor's real-time value.
+- [x] Add battery, storage, network, bluetooth, etc. information.
+- [ ] Add pages and navigation bar, sorting info.
+- [ ] Add sound meter.
