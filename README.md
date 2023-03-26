@@ -38,6 +38,10 @@ Or you can find the prebuild `.apk` file from [here](./res/app-debug-androidTest
 │   └── wrapper
 └── res
 ```
+## Additions
+
+Don't hesitate to open an issue if you find problem or request missing features.
+
 ## To do
 - [x] Add icon for the app.
 - [x] Refine layout.
